@@ -1,0 +1,2 @@
+import t from"./no-menu.BBSgizRE.js";import{f as o,o as s,x as a,w as r,a as n,z as l}from"./entry.DdZGh94s.js";import"./v-footer.vue.QbZX7a2y.js";import"./nuxt-link.CAxo-xWr.js";const c={class:"flex min-h-full flex-col items-center justify-center"},d=o({__name:"centered",setup(f){return(e,i)=>(s(),a(t,null,{default:r(()=>[n("div",c,[l(e.$slots,"default")])]),_:3}))}});export{d as default};
+//# sourceMappingURL=centered.C_hPUBoT.js.map
