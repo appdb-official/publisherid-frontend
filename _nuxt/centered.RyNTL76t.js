@@ -1,2 +1,0 @@
-import t from"./no-menu.kyb6xdFE.js";import{f as o,o as s,A as a,w as r,a as n,C as l}from"./entry.MyYndEul.js";import"./v-footer.vue.D-DDRq7t.js";import"./nuxt-link.CY5ducQa.js";const c={class:"flex min-h-full flex-col items-center justify-center"},d=o({__name:"centered",setup(f){return(e,i)=>(s(),a(t,null,{default:r(()=>[n("div",c,[l(e.$slots,"default")])]),_:3}))}});export{d as default};
-//# sourceMappingURL=centered.RyNTL76t.js.map
